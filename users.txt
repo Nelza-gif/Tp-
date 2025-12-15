@@ -1,0 +1,1 @@
+user1;Pass123;Jean Dupont;690000000;jean@mail.com;/bin/bash

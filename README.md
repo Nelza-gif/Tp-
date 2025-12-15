@@ -1,1 +1,1 @@
-# Partie 0 – Sécurisation SSH
+# Partie 1 – Script Bash
